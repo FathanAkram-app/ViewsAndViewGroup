@@ -1,6 +1,5 @@
 # ViewsAndViewGroup
-This is my basic project about Views And ViewGroup
-In this project i learned :
+This is my basic project about Views And ViewGroup /In this project i learned :
 1. LinearLayout
 2. FrameLayout
 3. RelativeLayout
