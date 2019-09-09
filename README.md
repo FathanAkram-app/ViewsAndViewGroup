@@ -8,4 +8,4 @@ In this project i learned :
 5. ViewGroup
 6. ScrollView
 
-![alt text] (https://i.imgur.com/0NLNOpK.png)
+[Imgur](https://i.imgur.com/0NLNOpK.png)
